@@ -7,7 +7,7 @@
 
 
 ## A =[1 2 3]...
-## examole of 3x3 matric as below
+## example of 3x3 matric as below
 import numpy as np
 
 mat1 = np.array([[1,2,3],[4,5,6],[7,8,9]])
